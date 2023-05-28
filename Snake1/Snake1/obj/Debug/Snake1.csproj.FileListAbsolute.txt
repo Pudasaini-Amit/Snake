@@ -1,0 +1,15 @@
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\MainWindow.g.cs
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\App.g.cs
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1_MarkupCompile.cache
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1_MarkupCompile.lref
+C:\Users\pudas\source\repos\Snake1\Snake1\bin\Debug\Snake1.exe.config
+C:\Users\pudas\source\repos\Snake1\Snake1\bin\Debug\Snake1.exe
+C:\Users\pudas\source\repos\Snake1\Snake1\bin\Debug\Snake1.pdb
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\App.baml
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\MainWindow.baml
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1.g.resources
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1.Properties.Resources.resources
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1.csproj.GenerateResource.cache
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1.csproj.CoreCompileInputs.cache
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1.exe
+C:\Users\pudas\source\repos\Snake1\Snake1\obj\Debug\Snake1.pdb
